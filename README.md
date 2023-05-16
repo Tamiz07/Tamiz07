@@ -2,7 +2,16 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 
 ## 💫 About Me:
-Hello, I'm Tamil Selvan, a budding web developer with a keen interest in Python, HTML, CSS, and JavaScript. I'm excited to bring my fresh perspective and enthusiasm to the world of web development. I am passionate about creating visually appealing and functional websites that engage users and deliver a great user experience. I am constantly learning and expanding my skill set, eager to take on new challenges and grow as a developer. Let's connect and build something great together!
+
+<img align="right" alt="coding" width="320" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
+🔭 I’m currently working on Frontend
+
+🌱 I’m currently learning JavaScript
+
+💬 Ask me about Python
+
+⚡ Fun fact I am funny
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_tamizh7_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tamizh07/) 
