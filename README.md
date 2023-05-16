@@ -1,7 +1,4 @@
-![Tamil selvan_Banner](https://github.com/Tamiz07/Tamiz07/assets/118349184/2cfa1bbe-24a5-4319-a79c-cdcabfad3254)
-
-
-<h1 align="center">Hi there👋, I'm Tamil Selvan</h1>
+![Navy And White Geometric Technology  LinkedIn Banner](https://github.com/Tamiz07/Tamiz07/assets/118349184/557dcc7c-713d-4ed9-a6c6-92b77e00e11a)
 <h3 align="center">A passionate Web Developer from India</h3>
 
 ## 💫 About Me:
