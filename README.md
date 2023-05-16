@@ -1,4 +1,7 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Tamil Selvan</h1>
+<h3 align="center">A passionate Python Developer from India</h3>
+
+## 💫 About Me:
 Hello, I'm Tamil Selvan, a budding web developer with a keen interest in Python, HTML, CSS, and JavaScript. I'm excited to bring my fresh perspective and enthusiasm to the world of web development. I am passionate about creating visually appealing and functional websites that engage users and deliver a great user experience. I am constantly learning and expanding my skill set, eager to take on new challenges and grow as a developer. Let's connect and build something great together!
 
 
