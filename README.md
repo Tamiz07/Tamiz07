@@ -1,4 +1,4 @@
-<div align="center"> <img width="700" height="300" object-fit="cover" alt="code gif" src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif"></div>
+<div> <img width="1000" height="350" alt="code gif" src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif"></div>
 <h3 align="center">A passionate Web Developer from India</h3>
 
 ## 💫 About Me:
