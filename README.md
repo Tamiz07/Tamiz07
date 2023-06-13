@@ -21,11 +21,7 @@
 ---
 
 ### 🔝 Top Contributed Repo
-<div align="center"><img src="https://github-contributor-stats.vercel.app/api?username=Tamiz07&limit=5&theme=gitdimmed&combine_all_yearly_contributions=true"></div>
-<div align="center"><img width="350" alt="coding" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif"></div>
+<img align="right" width="250" alt="coding" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
+<img src="https://github-contributor-stats.vercel.app/api?username=Tamiz07&limit=5&theme=gitdimmed&combine_all_yearly_contributions=true">
 
----
 
-[![](https://visitcount.itsvg.in/api?id=Tamiz07&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
