@@ -3,8 +3,6 @@
 
 ## 💫 About Me:
 
-<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
-
 🔭 I’m currently working on Python and Frontend
 
 🌱 I’m currently learning JavaScript
@@ -21,14 +19,13 @@
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"></div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Tamiz07&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Tamiz07&limit=5&theme=gitdimmed&combine_all_yearly_contributions=true)
+<img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
+<img src="https://github-contributor-stats.vercel.app/api?username=Tamiz07&limit=5&theme=gitdimmed&combine_all_yearly_contributions=true">
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Tamiz07&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
