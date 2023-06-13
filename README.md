@@ -21,8 +21,8 @@
 ---
 
 ### 🔝 Top Contributed Repo
-<img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
-<img src="https://github-contributor-stats.vercel.app/api?username=Tamiz07&limit=5&theme=gitdimmed&combine_all_yearly_contributions=true">
+<div align="center"><img alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif"></div>
+<div align="center"><img src="https://github-contributor-stats.vercel.app/api?username=Tamiz07&limit=5&theme=gitdimmed&combine_all_yearly_contributions=true"></div>
 
 ---
 
